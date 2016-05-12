@@ -34,9 +34,13 @@ function sort(strng){
 }
 console.log(sort("350 44 67 90 9 11 11 2 20 2000"));
 console.log(sort("450 1 1 001 2 99 099 0099"));
+<<<<<<< HEAD
 
 
 editing again
 we can edit as many times we want
 // weight of 350=3+5+0=8
 //if both weights are equal, We consider the number as string and sort according to string length.
+=======
+edit this 
+>>>>>>> edit

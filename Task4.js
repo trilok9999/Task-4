@@ -34,3 +34,4 @@ function sort(strng){
 }
 console.log(sort("350 44 67 90 9 11 11 2 20 2000"));
 console.log(sort("450 1 1 001 2 99 099 0099"));
+edit this 
